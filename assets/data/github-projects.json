@@ -1,0 +1,47 @@
+[
+    {
+        "projectName":"Some Project",
+        "description":"Some description",
+        "technologies":["HTML","CSS","JS"],
+        "images":["link","link","link"],
+        "demo_URL":"www.demoURL.com",
+        "year":2024,
+        "source_code_url":"github.com/projectName"
+    },
+    {
+        "projectName":"Some Project",
+        "description":"Some description",
+        "technologies":["HTML","CSS","JS"],
+        "images":["link","link","link"],
+        "demo_URL":"www.demoURL.com",
+        "year":2024,
+        "source_code_url":"github.com/projectName"
+    },
+    {
+        "projectName":"Some Project",
+        "description":"Some description",
+        "technologies":["HTML","CSS","JS"],
+        "images":["link","link","link"],
+        "demo_URL":"www.demoURL.com",
+        "year":2024,
+        "source_code_url":"github.com/projectName"
+    },
+    {
+        "projectName":"Some Project",
+        "description":"Some description",
+        "technologies":["HTML","CSS","JS"],
+        "images":["link","link","link"],
+        "demo_URL":"www.demoURL.com",
+        "year":2024,
+        "source_code_url":"github.com/projectName"
+    },
+    {
+        "projectName":"Some Project",
+        "description":"Some description",
+        "technologies":["HTML","CSS","JS"],
+        "images":["link","link","link"],
+        "demo_URL":"www.demoURL.com",
+        "year":2024,
+        "source_code_url":"github.com/projectName"
+    }
+]
