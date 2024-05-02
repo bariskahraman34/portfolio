@@ -219,6 +219,8 @@ aside .navigation {
     }
     img{
         max-width: 100%;
+        max-height: 100%;
+        object-fit: contain;
         margin-bottom: 32px;
         border-radius: 10px;
         transition: transform 2s ease-in-out;
@@ -228,6 +230,27 @@ aside .navigation {
         line-height: 32px;
         color: hsla(0, 0%, 100%, 0.5);
         font-size: 16px;
+    }
+}
+
+#projects .card-container .card .card-heading{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+#projects .card-container .card .languages-list{
+    display: flex;
+    gap: 20px;
+    margin-block: 20px;
+    li{
+        font-size: 14px;
+        font-weight: 600;
+        padding: 10px 20px;
+        background-color: #2d2f33;
+        border-radius: 30px;
+        color: var(--green-color);
     }
 }
 
@@ -255,5 +278,5 @@ aside .navigation {
 }
 
 #projects .card-container .card:hover img{
-    transform: scale(1.1) ;
+    transform: scale(1.1);
 }

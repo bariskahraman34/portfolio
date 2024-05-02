@@ -1,47 +1,52 @@
 [
     {
-        "projectName":"Some Project",
-        "description":"Some description",
+        "projectName":"Random Quotes",
+        "description":"Random Quotes uygulaması, kullanıcıların her ziyaretinde ilham alabilecekleri rastgele alıntılar sunar. Ayrıca, Lorem Picsum API'si aracılığıyla eş zamanlı olarak rastgele görseller de sağlar.",
+        "technologies":["HTML","CSS","JavaScript"],
+        "thumbnail":"assets/img/random-quotes-thumbnail.png",
+        "images":[],
+        "demo_URL":"https://bariskahraman34.github.io/random-quotes/",
+        "year":2023,
+        "source_code_url":"https://github.com/bariskahraman34/random-quotes"
+    },
+    {
+        "projectName":"Tip Calculator",
+        "description":"Tip Hesaplama Aracı, bir restoranda veya başka bir hizmet sektöründe ne kadar bahşiş bırakmanız gerektiğini hızlı ve kolay bir şekilde hesaplamanıza yardımcı olur. Araç, fatura tutarı, bahşiş yüzdesi ve kişi sayısı gibi basit girdileri kullanarak size kişi başına bahşiş tutarını ve toplam ödemeyi verir.",
         "technologies":["HTML","CSS","JS"],
-        "images":["link","link","link"],
+        "thumbnail":"assets/img/tip-calculator-thumbnail.png",
+        "images":[],
+        "demo_URL":"https://bariskahraman34.github.io/tip-calculator/",
+        "year":2024,
+        "source_code_url":"https://github.com/bariskahraman34/tip-calculator"
+    },
+    {
+        "projectName":"JavaScript Quiz App",
+        "description":"Bu uygulama, 20 soruluk bir JavaScript quizi içeriyor ve kullanıcıların her zaman toplam soru sayısını ve bulundukları soruyu görebilmelerini sağlayan bir süre tutucusuyla donatılmıştır. Quiz sonunda, kullanıcıların performanslarını değerlendirmek için 100 üzerinden bir puan hesaplanır.",
+        "technologies":["HTML","CSS","JS"],
+        "thumbnail":"assets/img/js-quiz-app-thumbnail.png",
+        "images":[],
         "demo_URL":"www.demoURL.com",
         "year":2024,
         "source_code_url":"github.com/projectName"
     },
     {
-        "projectName":"Some Project",
-        "description":"Some description",
+        "projectName":"Online Dictionary",
+        "description":"İngilizce-İngilizce Sözlük API'sine istek göndererek gelen verilerle oluşturduğum online bir İngilizce sözlük uygulaması. Kullanıcılar, kelime anlamlarını, örnek cümleleri ve bazılarının seslendirmesini kolayca bulabilirler.",
         "technologies":["HTML","CSS","JS"],
-        "images":["link","link","link"],
-        "demo_URL":"www.demoURL.com",
-        "year":2024,
-        "source_code_url":"github.com/projectName"
+        "thumbnail":"assets/img/online-dictionary-thumbnail.png",
+        "images":[],
+        "demo_URL":"https://bariskahraman34.github.io/online-dictionary/",
+        "year":2023,
+        "source_code_url":"https://github.com/bariskahraman34/online-dictionary"
     },
     {
-        "projectName":"Some Project",
-        "description":"Some description",
+        "projectName":"E-Commerce Website",
+        "description":"DummyJSON API'sine yapılan isteklerle getirilen ürünlerin listelendiği ve her ürünün kendi sayfasının bulunduğu bu web uygulaması, ürünleri sepete ekleme, sepeti güncelleme ve sepetten silme gibi temel işlemleri LocalStorage kullanarak gerçekleştiriyor. Ayrıca, kullanıcıların kendi sayfalarında ürün eklemelerini sağlayarak, kullanıcı tarafında da dinamik bir etkileşim sunuyor. Kullanıcı sayfasında kullanıcılar, eklenen ürünleri DummyJSON API'sine göndererek veritabanına kaydedebilir, ürünleri düzenleyebilir ve silme işlemleri yapabilir.",
         "technologies":["HTML","CSS","JS"],
-        "images":["link","link","link"],
-        "demo_URL":"www.demoURL.com",
+        "thumbnail":"assets/img/ecommerce-thumbnail.png",
+        "images":[],
+        "demo_URL":"https://bariskahraman34.github.io/ecommerce/",
         "year":2024,
-        "source_code_url":"github.com/projectName"
-    },
-    {
-        "projectName":"Some Project",
-        "description":"Some description",
-        "technologies":["HTML","CSS","JS"],
-        "images":["link","link","link"],
-        "demo_URL":"www.demoURL.com",
-        "year":2024,
-        "source_code_url":"github.com/projectName"
-    },
-    {
-        "projectName":"Some Project",
-        "description":"Some description",
-        "technologies":["HTML","CSS","JS"],
-        "images":["link","link","link"],
-        "demo_URL":"www.demoURL.com",
-        "year":2024,
-        "source_code_url":"github.com/projectName"
+        "source_code_url":"https://github.com/bariskahraman34/ecommerce"
     }
 ]

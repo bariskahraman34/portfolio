@@ -1,0 +1,30 @@
+[
+    {
+        "tool":"JavaScript",
+        "logo":"<i class='fa-brands fa-js'></i>"
+    },
+    {
+        "tool":"HTML5",
+        "logo":"<i class='fa-brands fa-html5'></i>"
+    },
+    {
+        "tool":"CSS",
+        "logo":"<i class='fa-brands fa-css3-alt'></i>"
+    },
+    {
+        "tool":"SCSS",
+        "logo":"<i class='fa-brands fa-sass'></i>"
+    },
+    {
+        "tool":"Bootstrap",
+        "logo":"<i class='fa-brands fa-bootstrap'></i>"
+    },
+    {
+        "tool":"Git",
+        "logo":"<i class='fa-brands fa-git-alt'></i>"
+    },
+    {
+        "tool":"Figma to Code Conversion",
+        "logo":"<i class='fa-brands fa-figma'></i>"
+    }
+]
