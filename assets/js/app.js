@@ -56,7 +56,7 @@ function createBackground(){
         html.clientHeight, html.scrollHeight, html.offsetHeight);
     const backgorund = document.querySelector('section.background');
     backgorund.innerHTML = ""
-    for(let i = 0 ; i < height / 60 ; i++){
+    for(let i = 0 ; i < Math.ceil(height / 70) ; i++){
         backgorund.innerHTML += 
         `
             <div class="row">
