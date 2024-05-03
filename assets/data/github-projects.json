@@ -41,12 +41,22 @@
     },
     {
         "projectName":"E-Commerce Website",
-        "description":"DummyJSON API'sine yapılan isteklerle getirilen ürünlerin listelendiği ve her ürünün kendi sayfasının bulunduğu bu web uygulaması, ürünleri sepete ekleme, sepeti güncelleme ve sepetten silme gibi temel işlemleri LocalStorage kullanarak gerçekleştiriyor. Ayrıca, kullanıcıların kendi sayfalarında ürün eklemelerini sağlayarak, kullanıcı tarafında da dinamik bir etkileşim sunuyor. Kullanıcı sayfasında kullanıcılar, eklenen ürünleri DummyJSON API'sine göndererek veritabanına kaydedebilir, ürünleri düzenleyebilir ve silme işlemleri yapabilir.",
+        "description":"DummyJSON API'sine yapılan isteklerle getirilen ürünlerin listelendiği ve her ürünün kendi sayfasının bulunduğu bu web uygulaması, ürünleri sepete ekleme, sepeti güncelleme ve sepetten silme gibi temel işlemleri LocalStorage kullanarak gerçekleştiriyor. Kullanıcı sayfasında kullanıcılar, DummyJSON API'sine istek göndererek ürün ekleyebilir, ürünleri düzenleyebilir ve silme işlemleri yapabilir.",
         "technologies":["HTML","CSS","JS"],
         "thumbnail":"assets/img/ecommerce-thumbnail.png",
         "images":[],
         "demo_URL":"https://bariskahraman34.github.io/ecommerce/",
         "year":2024,
         "source_code_url":"https://github.com/bariskahraman34/ecommerce"
+    },
+    {
+        "projectName":"Quiz App",
+        "description":"Quiz App, içerisinde dört farklı quiz bulunan ve soruları geniş bir soru havuzundan rasgele seçerek kullanıcıya sunan dinamik bir web uygulamasıdır. Ayrıca localStorage'ta kullanıcının seçmiş olduğu tema ayarınıda tutar.",
+        "technologies":["HTML","CSS","JS"],
+        "thumbnail":"assets/img/quiz-app-thumbnail.png",
+        "images":[],
+        "demo_URL":"https://bariskahraman34.github.io/quiz-app/",
+        "year":2024,
+        "source_code_url":"https://github.com/bariskahraman34/quiz-app"
     }
 ]
